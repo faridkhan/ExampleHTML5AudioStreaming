@@ -1,5 +1,4 @@
 
-
 var progressTimer;
 
 var playButton;
@@ -22,7 +21,7 @@ function pad2(number) {
 	return (number < 10 ? '0' : '') + number
 }
 
-var myaudioURL = 'http://s3.voscast.com:8156/';
+var myaudioURL = 'http://198.178.123.8:8156';
 var myaudio = new Audio(myaudioURL);
 var isPlaying = false;
 var readyStateInterval = null;
