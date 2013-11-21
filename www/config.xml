@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "org.devgeeks.examplehtml5audiostreaming"
         version   = "0.5.0">
-    <name>Example HTML5 Audio Streaming</name>
+    <name>Sunni Wave</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
